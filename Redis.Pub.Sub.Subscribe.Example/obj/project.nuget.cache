@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdUSuO13Ozn+J9EevhlQYbvK83dbcJ6TDrqnltoYQO+5KVN/O9XOBFxJZJFlCiAE8rJLlMmPUfV0sHreLrWMZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meka\\Desktop\\MeKa\\Redis\\InMemory Cache\\InMemory.Caching\\Redis.Pub.Sub.Subscribe.Example\\Redis.Pub.Sub.Subscribe.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meka\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\meka\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\meka\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
